@@ -19,7 +19,7 @@ To install the python dependencies you can use conda:
 	jupyter-notebook tSNE.ipynb
 
 ## Useful Links
-* [A nice webpage by Google Brain on how to use t-SNE effectively](https://distill.pub/2016/misread-tsne/): Wattenberg, et al., "How to Use t-SNE Effectively", Distill, 2016. http://doi.org/10.23915/distill.00002
+* [A nice webpage on how to use t-SNE effectively](https://distill.pub/2016/misread-tsne/): Wattenberg, et al., "How to Use t-SNE Effectively", Distill, 2016. http://doi.org/10.23915/distill.00002
 * [Tutorial on Visualizing the data](http://nbviewer.jupyter.org/github/addfor/tutorials/blob/master/machine_learning/ml03v04_visualizing_the_data.ipynb)
 
 ### Authors
