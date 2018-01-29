@@ -16,7 +16,7 @@ To install the python dependencies you can use conda:
 
 ### Run the notebook
 
-	jupyter-notebook tSNE.ipynb
+	jupyter-notebook "Visualizing tabular data of S4G galaxies in infrared with PCA and t-SNE.ipynb"
 
 ## Useful Links
 * [A nice webpage on how to use t-SNE effectively](https://distill.pub/2016/misread-tsne/): Wattenberg, et al., "How to Use t-SNE Effectively", Distill, 2016. http://doi.org/10.23915/distill.00002
