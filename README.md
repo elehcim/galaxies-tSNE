@@ -1,7 +1,7 @@
 # Visualize n-dimensional data from a galaxy catalogue (NIR Spitzer S4G data)
 
 Jupyter notebook with the project work carried out during the first SUNDIAL training school in Groningen 22-26 January 2018.
-Visualize tabular data of the [Spitzer Survey of Stellar Structure in Galaxies (S4G)](http://irsa.ipac.caltech.edu/data/SPITZER/S4G/overview.html).
+We used PCA and t-SNE to visualize tabular data of the [Spitzer Survey of Stellar Structure in Galaxies (S4G)](http://irsa.ipac.caltech.edu/data/SPITZER/S4G/overview.html).
 Data are taken [from here.](http://irsa.ipac.caltech.edu/workspace/TMP_nVrSqe_11202/Gator/irsa/22146/tbview.html)
 
 To view the notebook go [here](https://github.com/elehcim/galaxies-tSNE/blob/master/Visualizing%20tabular%20data%20of%20S4G%20galaxies%20in%20infrared%20with%20PCA%20and%20t-SNE.ipynb).
